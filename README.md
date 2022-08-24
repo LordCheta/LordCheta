@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LordCheta
-- 👀 I’m interested in JavaScript, TypeScript, Python, Php
+- 👀 I’m interested in JavaScript, TypeScript, Rust, Solidity
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on meaningful projects that can impact human living for good
 - 📫 How to reach me. Email me at: cmaduabuchi@live.com
